@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9745AD82-813A-4A4A-8042-5ED619019598}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IQoption/MainWindow.cs">
+    <Files>
+      <File FileName="IQoption/MainWindow.cs" Line="164" Column="33" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IQoption" expanded="True">
+            <Node name="IQoption" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IQoption PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/sebastianmoyano/Library/Caches/VisualStudio/8.0/Symbols/mono/mono/77769615db117c5fe398ed0af36d516eff432cd0</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
